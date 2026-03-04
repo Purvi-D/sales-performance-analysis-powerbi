@@ -90,6 +90,7 @@ The top 10 customers alone contribute a significant portion of total losses, ind
 •	Monitor profitability trends by region and product category
 
 ## Dashboard Preview
+<img width="1755" height="1241" alt="image" src="https://github.com/user-attachments/assets/98330003-55fd-4e36-adb6-9b605b3b8330" />
 
 
 ## NEXT STEPS
