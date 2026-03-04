@@ -16,19 +16,23 @@ The company is generating strong revenue, but profitability concerns exist at th
 •	What factors may be impacting margins?
 
 ## Analytical Flow </br>
-Raw Sales Data</br>
-            ↓</br>
-SQL Aggregation & Cleaning</br>
-            ↓</br>
-Power BI KPI Creation (DAX Measures)</br>
-            ↓</br>
-Loss Detection (Profit < 0)</br>
-            ↓</br>
-Customer Ranking (Top 10 Loss Customers)</br>
-            ↓</br>
-Regional & Time Trend Analysis</br>
-            ↓</br>
-Business Recommendations</br>
+```
+Raw Sales Data
+      ↓
+SQL Aggregation & Cleaning
+      ↓
+Power BI KPI Creation (DAX Measures)
+      ↓
+Loss Detection (Profit < 0)
+      ↓
+Customer Ranking (Top 10 Loss Customers)
+      ↓
+Regional & Time Trend Analysis
+      ↓
+Business Recommendations
+```
+
+
 
 ## METHODOLOGY</br>
 Step 1: Data Preparation</br>
