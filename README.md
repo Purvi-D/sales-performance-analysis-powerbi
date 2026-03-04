@@ -73,8 +73,7 @@ Analytical Skills</br>
 - Business storytelling</br>
 
 ## RESULTS & BUSINESS RECOMMENDATIONS
-
-- Key Results</br>
+### Key Results</br>
 - Total Sales: £2.27M</br>
 - Total Profit: £280K</br>
 - Profit Margin: 12%</br>
@@ -83,12 +82,12 @@ Analytical Skills</br>
 - West region generates highest sales</br>
 - November 2017 was peak sales month</br>
 
-## Business Insights
+### Business Insights
 
 While overall revenue performance is strong, profitability is impacted by a concentrated group of loss-making customers.</br>
 The top 10 customers alone contribute a significant portion of total losses, indicating potential pricing or discount inefficiencies.
 
-## Recommendations
+### Recommendations
 
 - Review discount policies for high-loss customers</br>
 - Re-evaluate pricing strategy for low-margin segments</br>
