@@ -1,6 +1,6 @@
 # Sales Performance & Loss Analysis Dashboard
 
-> 🎯 Identified 157 loss-making customers responsible for £71K in losses within a £2.27M sales portfolio — using SQL and Power BI to turn raw transactional data into a management-ready decision support dashboard.
+> 🎯 Identified 157 loss-making customers responsible for £71K in losses within a £2.27M sales portfolio, using SQL and Power BI to turn raw transactional data into a management-ready decision support dashboard.
 
 ## EXECUTIVE SUMMARY
 
